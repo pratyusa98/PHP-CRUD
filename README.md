@@ -5,3 +5,6 @@
 * Blog Article: Very simple add, edit, delete, view in PHP & MySQL
 
 * SQL script to create database and tables is present in database.sql file.
+
+![1](img/1.PNG)
+![2](img/2.PNG)
