@@ -5,7 +5,7 @@ session_start();
 if (isset($_POST['submit'])) {
 	 
 	 $title=$_POST['title'];
-	 $comment=$_POST['comment'];
+	 $comment=addslashes($_POST['comment']);
 	 $status=$_POST['status'];
 
 	 $user_id = $_SESSION['id'];
